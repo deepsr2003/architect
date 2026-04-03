@@ -33,3 +33,8 @@ pip install -r requirements.txt
 4.  **Run Terminal 2:** `streamlit run app.py --server.port 8501`
 5.  **Test:** Enter a complex idea. You will now receive a dry, clinical, professional-grade technical document.
 
+<img width="1390" height="860" alt="Screenshot 2026-04-04 at 1 52 18 AM" src="https://github.com/user-attachments/assets/8910ddcb-82ee-<img width="1394" height="860" alt="Screenshot 2026-04-04 at 1 51 36 AM" src="https://github.com/user-attachments/assets/eb32afe3-b728-4fba-996a-b51fa2bff555" />
+49ea-9012-fd17a87939aa" />
+
+
+
