@@ -14,6 +14,10 @@ The platform utilizes a three-tier agentic orchestration model:
 - **Backend**: FastAPI (Asynchronous Microservice)
 - **Frontend**: Streamlit (System Dashboard)
 - **Data Validation**: Pydantic v2
+  
+<img width="1390" height="860" alt="Screenshot 2026-04-04 at 1 52 18 AM" src="https://github.com/user-attachments/assets/6975f34e-6121-4ba5-9ab0-e76e1d17653b" />
+
+<img width="1394" height="860" alt="Screenshot 2026-04-04 at 1 51 36 AM" src="https://github.com/user-attachments/assets/1b31e55f-862b-4ca3-94bd-3b74bd777947" />
 
 ## Execution Process
 
@@ -34,8 +38,5 @@ pip install -r requirements.txt
 5.  **Test:** Enter a complex idea. You will now receive a dry, clinical, professional-grade technical document.
 
 
-<img width="1390" height="860" alt="Screenshot 2026-04-04 at 1 52 18 AM" src="https://github.com/user-attachments/assets/6975f34e-6121-4ba5-9ab0-e76e1d17653b" />
-
-<img width="1394" height="860" alt="Screenshot 2026-04-04 at 1 51 36 AM" src="https://github.com/user-attachments/assets/1b31e55f-862b-4ca3-94bd-3b74bd777947" />
 
 
