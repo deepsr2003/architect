@@ -1,0 +1,25 @@
+# Security: Protect API Keys
+.env
+
+# Environment: Ignore Virtual Environment
+venv/
+env/
+ENV/
+
+# Python: Ignore Compiled Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE: Ignore Workspace Settings
+.vscode/
+.idea/
+.project
+.settings/
+
+# OS: Ignore System Files
+.DS_Store
+Thumbs.db
+
+# Frontend: Streamlit temporary files
+.streamlit/config.toml
