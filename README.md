@@ -24,7 +24,7 @@ The platform utilizes a three-tier agentic orchestration model:
 ### 1. Environment Setup
 Clone the repository and initialize a virtual environment:
 ```bash
-git clone https://github.com/deepsr2003/architect.git
+git clone https://github.com/dsarkar10/architect.git
 cd architect
 python -m venv venv
 source venv/bin/activate
