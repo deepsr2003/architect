@@ -15,9 +15,11 @@ The platform utilizes a three-tier agentic orchestration model:
 - **Frontend**: Streamlit (System Dashboard)
 - **Data Validation**: Pydantic v2
   
-<img width="1390" height="860" alt="Screenshot 2026-04-04 at 1 52 18 AM" src="https://github.com/user-attachments/assets/6975f34e-6121-4ba5-9ab0-e76e1d17653b" />
+<img width="1389" height="855" alt="Screenshot 2026-05-24 at 2 48 34 PM" src="https://github.com/user-attachments/assets/eb92309c-c1e0-40fd-8e07-5e0c5bee76b7" />
 
-<img width="1394" height="860" alt="Screenshot 2026-04-04 at 1 51 36 AM" src="https://github.com/user-attachments/assets/1b31e55f-862b-4ca3-94bd-3b74bd777947" />
+<img width="1389" height="858" alt="Screenshot 2026-05-24 at 2 48 56 PM" src="https://github.com/user-attachments/assets/1652a088-badd-4185-a4d0-79777b45e36e" />
+
+
 
 ## Execution Process
 
