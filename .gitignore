@@ -3,6 +3,7 @@
 
 # Environment: Ignore Virtual Environment
 venv/
+.venv/
 env/
 ENV/
 
